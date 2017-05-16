@@ -13,6 +13,6 @@
 --Power your laravel app by opening CMD and typing: php artisan serve
 
 
---then view in browser by typing (127.0.0.1:8000 or localhost:8000)
+--then view in browser by typing (127.0.0.1:8000/todo or localhost:8000/todo)
 
 Tweak as you wish. Enjoy!
